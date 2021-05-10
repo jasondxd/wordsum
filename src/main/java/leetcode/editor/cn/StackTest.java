@@ -60,7 +60,9 @@ package leetcode.editor.cn;
 public class StackTest {
     //leetcode submit region begin(Prohibit modification and deletion)
     class MyStack {
-        //队列实现栈
+        //队列实现栈(双端队列实现)
+        //queue.offer 然乎弹出所有的queue <size-1
+        //后进先出
 
        /* public MyStack() {
         }
