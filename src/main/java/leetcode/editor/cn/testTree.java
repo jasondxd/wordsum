@@ -23,8 +23,6 @@
 
 package leetcode.editor.cn;
 
-import java.util.*;
-
 public class testTree {
     public static void main(String[] args) {
         Solution solution = new testTree().new Solution();
@@ -42,10 +40,6 @@ public class testTree {
     }
 
     class Solution {
-
-        /* public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-
-        }*/
 
 
     }

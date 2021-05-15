@@ -29,6 +29,7 @@ package leetcode.editor.cn;
 public class test2 {
     public static void main(String[] args) {
         Solution solution = new test2().new Solution();
+
      }
 
     //leetcode submit region begin(Prohibit modification and deletion)

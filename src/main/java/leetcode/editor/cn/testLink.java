@@ -43,10 +43,6 @@ public class testLink {
 
     class Solution {
 
-        /*public ListNode test(ListNode l1, ListNode l2) {
-
-        }*/
-
 
     }
 //leetcode submit region end(Prohibit modification and deletion)
